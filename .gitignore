@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .env
 /airflow/config/
 /airflow/logs/
 /airflow/plugins/
+=======
+.env
+>>>>>>> 3b4cee5 (init repo which contains the base environment for data engineering projects)
